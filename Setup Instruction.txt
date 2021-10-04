@@ -1,0 +1,7 @@
+Thank you for placing order with Isrg KB. 
+
+1. Run the MySQL statements given in MySQL Statements file using MySQL Console or PHPMyAdmin console option.
+2. Open the project (located in Project folder) using IDE NetBeans.
+3. From the left sidebar (project explorer/viewer) edit project-settings.java
+4. Modify the MySQL username, password and project name etc. as per your system and preferences.
+5. Save the project-settings.java and run the project.
